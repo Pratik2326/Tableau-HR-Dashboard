@@ -22,12 +22,16 @@ The dataset is entirely synthetic, generated using ChatGPT and Python's Faker li
 ## Dashboard Preview
 
 ### Page 1 — Overview
-![HR Dashboard Overview](Overview.png)
+![HR Dashboard Overview]
+<img width="1136" height="696" alt="image" src="https://github.com/user-attachments/assets/026b0cee-2fe7-4849-bbb0-5f4ccf35bc8b" />
+
 
 > Workforce KPIs, hiring vs. attrition trends, department headcount, geographic distribution, demographic breakdowns, pay equity by education and gender, and age vs. salary scatter by job role.
 
 ### Page 2 — Employee Explorer
-![HR Dashboard Details](Details.png)
+![HR Dashboard Details]
+<img width="1129" height="644" alt="image" src="https://github.com/user-attachments/assets/0ad76e11-f9a7-4936-9d0d-8f5e62e321ab" />
+
 
 > Full 8,950-record employee table with 8 cascading filter panels — enabling any employee segment to be isolated in under 10 seconds.
 
