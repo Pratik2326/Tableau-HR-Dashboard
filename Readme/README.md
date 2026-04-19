@@ -7,7 +7,7 @@
 
 > An interactive, two-page Tableau dashboard built to answer real HR business questions — covering workforce composition, pay equity, attrition analysis, and individual employee exploration across a synthetic dataset of 8,950 records.
 
-**[View Live Dashboard on Tableau Public →]https://public.tableau.com/app/profile/pratik.rajaram.more/viz/HRDashboard1_17755059903640/HRDashboard**
+**[View Live Dashboard on Tableau Public →](https://public.tableau.com/app/profile/pratik.rajaram.more/viz/HRDashboard1_17755059903640/HRDashboard)**
 
 ---
 
