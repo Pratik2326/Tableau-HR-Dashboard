@@ -202,7 +202,7 @@ MS Business Analytics — University of Colorado Denver (Expected May 2026)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratikm0105-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pratikm0105/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Portfolio-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/pratik.rajaram.more)
-[![GitHub](https://img.shields.io/badge/GitHub-pratikmore-black?style=flat-square&logo=github)](https://github.com/pratikmore)
+[![GitHub](https://img.shields.io/badge/GitHub-pratikmore-black?style=flat-square&logo=github)](https://github.com/Pratik2326)
 
 ---
 
